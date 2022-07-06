@@ -49,13 +49,13 @@
   <h4>⭐ Here are some projects that I've worked on:</h4>
   <ul>
     <li>
-      <a href="https://maurowernly.github.io/Pokedex/">Pokedex</a>
-    </li>
-    <li>
-      <a href="https://maurowernly.github.io/final-fantasy-project/">Final Fantasy info library</a>
+      <a href="https://www.monsterchompers.com/">Monster Chompers</a>
     </li>
     <li>
       <a href="https://hiveventures.co/">hiveventures.co</a>
+    </li>
+    <li>
+      <a href="https://maurowernly.github.io/Pokedex/">Pokedex</a>
     </li>
     <li>
       <a href="https://maurowernly.github.io/Coworking.space/">Coworking.space/</a>
