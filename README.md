@@ -76,8 +76,13 @@
 </div>
 
 <div>
-  <h4>:dart: You can also find me in my personal website:</h4>
-  <a href="https://maurowernly.github.io/">maurowernly.github.io/</a>
+  <h4>:dart: Some of my strongest qualities:</h4>
+  <ul>
+    <li>Great communication skills</li>
+    <li>Willing to research</li>
+    <li>Problem-solver</li>
+    <li>Project management-like characteristics</li>
+  </ul>
 </div>
 
 <div>
