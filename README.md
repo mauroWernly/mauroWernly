@@ -1,8 +1,8 @@
 ###
-<h1 align="center">Hi there I'm Mauro :cowboy_hat_face:	</h1>
+<h1 align="center">Hi there, I'm Mauro :cowboy_hat_face:	</h1>
 </br>
 </br>
-<h3 align=""> I'm a front-end developer specialized in React JS.</h3>
+<h3 align=""> I'm a front-end developer specialized in React.</h3>
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
@@ -67,7 +67,7 @@
       <a href="https://www.grizzleyworldnft.com/#/">Tee Grizzley World NFT</a>
     </li>
     <li>
-      <a href="https://micdrop.pepsi.com/">Pepsico micdrop</a>
+      <a href="https://micdrop.pepsi.com/">Pepsi Mic Drop</a>
     </li>
     <li>
       <a href="https://route.com/">Route</a>
