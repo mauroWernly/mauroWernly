@@ -58,6 +58,9 @@
       <a href="https://maurowernly.github.io/Pokedex/">Pokedex</a>
     </li>
     <li>
+      <a href="https://drops-dev-client.waytoodigital.com/">Way Too Digital's NFT drop whitelabel</a>
+    </li>
+    <li>
       <a href="https://maurowernly.github.io/Coworking.space/">Coworking.space</a>
     </li>
     <li>
