@@ -23,7 +23,7 @@
 </div>
 <br>
 <div id="toolbelt">
-  <h4>:telescope:	Lenguages and Tools:</h4>
+  <h4>:telescope:	Languages and Tools:</h4>
   <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="Css" width="40" height="40"/>&nbsp;
