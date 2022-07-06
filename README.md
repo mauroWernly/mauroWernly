@@ -61,7 +61,10 @@
       <a href="https://maurowernly.github.io/Coworking.space/">Coworking.space</a>
     </li>
     <li>
-      <a href="https://micdrop.pepsi.com/">Pepsico micdrop/</a>
+      <a href="https://www.grizzleyworldnft.com/#/">Tee Grizzley World NFT</a>
+    </li>
+    <li>
+      <a href="https://micdrop.pepsi.com/">Pepsico micdrop</a>
     </li>
     <li>
       <a href="https://route.com/">Route</a>
