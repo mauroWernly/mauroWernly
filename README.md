@@ -52,16 +52,16 @@
       <a href="https://www.monsterchompers.com/">Monster Chompers</a>
     </li>
     <li>
-      <a href="https://hiveventures.co/">hiveventures.co</a>
+      <a href="https://hiveventures.co/">Hive Ventures</a>
     </li>
     <li>
       <a href="https://maurowernly.github.io/Pokedex/">Pokedex</a>
     </li>
     <li>
-      <a href="https://maurowernly.github.io/Coworking.space/">Coworking.space/</a>
+      <a href="https://maurowernly.github.io/Coworking.space/">Coworking.space</a>
     </li>
     <li>
-      <a href="https://micdrop.pepsi.com/">Pepsico micdrops/</a>
+      <a href="https://micdrop.pepsi.com/">Pepsico micdrop/</a>
     </li>
     <li>
       <a href="https://route.com/">Route</a>
