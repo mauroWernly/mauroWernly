@@ -46,7 +46,7 @@
   </div>
 <div>
 <div id="my-projects">
-  <h4>⭐ Here are some personal projects that I've worked on:</h4>
+  <h4>⭐ Here are some projects that I've worked on:</h4>
   <ul>
     <li>
       <a href="https://maurowernly.github.io/Pokedex/">Pokedex</a>
